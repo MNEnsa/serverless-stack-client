@@ -1,5 +1,5 @@
 export default {
-  STRIPE_KEY: "pk_test_qv7GjF8coVLgKk3MU91HvCQp00FXm2eBo",
+  STRIPE_KEY: "pk_test_qv7GjF8coVLgKk3MU91HvCQp00FXm2eBoI",
   MAX_ATTACHMENT_SIZE: 5000000,
   s3: {
     REGION: "eu-central-1",
